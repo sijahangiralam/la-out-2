@@ -1,0 +1,48 @@
+.body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width:1000px;
+	height: 800px;
+	background: #19c704;
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 50px;
+	background:green;
+}
+.logo{
+	width: 25%;
+	height:750px;
+	background: #0d2473;
+	float: left;
+}
+.meno{
+	width: 75%;
+	height: 200%;
+	background: #2bb10a;
+	float: left;
+}
+.banner-one{
+	height:400px;
+	width: 100%;
+    background:red;
+}
+.part-one{
+	height:300px;
+	width: 37.50%;
+    background:blue;
+    float: left;
+}
+.banner-two{
+	height:350px;
+	width:100%;
+	background:yellow;
+}
+.footer{
+	width: 101%;
+	height: 100px;
+	background:blue;
+}
